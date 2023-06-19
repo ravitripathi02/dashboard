@@ -7,7 +7,9 @@
   position: relative;
 }
 .App-header {
+  position: relative;
   display: flex;
+  margin-bottom: 30px;
 }
 .head1 {
   padding-top: 32px;
@@ -17,7 +19,9 @@
 }
 .vr5 {
   width: 0px;
-  height: 100px;
+  position: absolute;
+  left: 280px;
+  height: 100vh;
   margin-right: 49px;
   border: 1px solid #dbdbdb;
 }
@@ -38,6 +42,7 @@
 .head2 {
   display: flex;
   margin-top: 22px;
+  margin-left: 50px;
   width: 417px;
   height: 44px;
   background: #f5f5f5;
@@ -294,12 +299,12 @@
   line-height: 17px;
   color: #000000;
 }
-.v2 {
+/* .v2 {
   width: 0px;
   height: 931px;
 
   border: 1px solid #dbdbdb;
-}
+} */
 .mobilehead {
   width: 253px;
   height: 56px;
