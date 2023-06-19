@@ -26,7 +26,7 @@
   border: 1px solid #dbdbdb;
 }
 .hname {
-  width: 98px;
+/*   width: 98px; */
   height: 24px;
   font-family: "Inter";
   font-style: normal;
@@ -254,7 +254,7 @@
   padding-bottom: 12px;
   display: flex;
 
-  width: 101px;
+/*   width: 101px; */
   height: 17px;
 
   font-family: "Inter";
@@ -306,7 +306,7 @@
   border: 1px solid #dbdbdb;
 } */
 .mobilehead {
-  width: 253px;
+/*   width: 253px; */
   height: 56px;
   margin: 41px 22px 40px 49px;
   font-family: "Inter";
