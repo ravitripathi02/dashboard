@@ -582,7 +582,7 @@ function App() {
                 </svg>
               </div>
               <div className="fcon">Today</div>
-              <div className="ficon">
+              <div className="ficon" style={{ paddingLeft: "10px"}}>
                 <svg
                   width="12"
                   height="7"
